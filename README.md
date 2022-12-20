@@ -1,4 +1,6 @@
 # challengeFoxbit
 Segue o desafio proposto:
   Para executar o arquivo somente é necessário o Jupyter Notebook.
-  O Jupyter Notebook pode ser utilizado instalando as extensões do Vscode, ou de maneira mais simples pode ser utilizado também o jupyter notebook online publicado no seguinte link: https://hub.gke2.mybinder.org/user/luanrjjj-challengefoxbit-d7u8hw8z/lab/workspaces/auto-y/tree/foxbitChallenge.ipynb
+  O Jupyter Notebook pode ser utilizado instalando as extensões do Vscode do Jupyter e o Python.
+  Ou pode ser aberto também online. Porém para esse projeto é necessário a versão 3.10 do Python. Por causa do uso do pattern match/case. 
+  
